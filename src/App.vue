@@ -14,17 +14,13 @@ export default {
       pageSize: 10,
       pageCss: {
         pages: {
-          width: "20px",
-          height: "20px",
+          width: "35px",
+          height: "35px",
           background: "#999",
-          color: "red",
-          'font-size': '10px',
-          'border-radius': '50%'
         },
         active: {
           background: "green",
           color: "white",
-          'border-radius': '50%'
         }
       }
     };
