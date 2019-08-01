@@ -34,6 +34,7 @@
                 color: 'white'
             },
         }
+        这里样式的书写跟jQuery设置css样式一样的语法
 ### pageCount pageSize
         pageCount   代表总数
         pageSize    代表一页的数量
